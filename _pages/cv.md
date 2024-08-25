@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+### If the embedded PDF below does not load, you can [download it here]({{base_path}}/files/trushal_sardhara_cv.pdf).
+
+<embed src="{{ site.baseurl }}/files/trushal_sardhara_cv.pdf" width="600" height="700" type='application/pdf'>
+
+<!-- Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctorate (Dr.-Ing.) in Machine Learning, Hamburg University of Technology (TUHH), 2024
+* M.Sc. in Mechatronics, Hamburg University of Technology (TUHH), 2021
+* B.E. in Mechatronics, G.H.Patel College of Engineering and Technology (GCET), 2016
 
 Work experience
 ======
@@ -61,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
